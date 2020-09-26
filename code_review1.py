@@ -47,8 +47,6 @@ def menu():
                         contador_pares+=1
                     else:
                         contador_impares+=1
-                    if dd[0] &dd[1]==6:
-                        break
                         
                     key = input("==Lanzar nuevamente ==")
                     if(dd[0]==6 and dd[1]==6):
