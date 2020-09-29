@@ -1,6 +1,6 @@
 import os
 from random import randint
-
+#Diana elizabeth Marin Calpa
 #Functions:::::::::::::::::::::::::::::
 def dices () :
 <<<<<<< HEAD
@@ -34,8 +34,7 @@ if (numero>=1):
             contador_pares+=1
         else:
             contador_impares+=1
-        if dd[0] &dd[1]==6:
-            break
+      
             
         key = input("==Lanzar nuevamente ==")
         if(dd[0]==6 and dd[1]==6):
