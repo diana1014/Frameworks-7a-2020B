@@ -1,8 +1,5 @@
 from django.db import models
 
-#class  BasicField(models.Model):
- #   description=models.TextField(default='Description here')
-  #  status= models.BooleanField(default=True)
 # Create your models here.
 
 class Category (models.Model):
